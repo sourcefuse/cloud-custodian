@@ -27,3 +27,4 @@ wsgiref==0.1.2
 procname==0.3
 msgpack-python>=0.4.8
 lz4==2.1.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
