@@ -1,3 +1,4 @@
 click
 c7n
 structlog
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
