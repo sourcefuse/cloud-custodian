@@ -37,3 +37,5 @@ fakeredis==1.0.3
 
 # requires pandoc, fails on ci server, only used for pypi metadata
 # setuptools-markdown==0.2
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
