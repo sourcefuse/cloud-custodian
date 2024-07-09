@@ -2,3 +2,4 @@ boto3
 pyyaml>=4.2b4
 jinja2==2.10.1
 jsonschema
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
