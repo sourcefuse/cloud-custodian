@@ -9,3 +9,4 @@ futures>=3.1.1
 python-dateutil>=2.6
 urllib3
 certifi
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
